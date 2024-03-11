@@ -1,9 +1,11 @@
 col_name = input('enter college name : ')
 col_id = int(input('enter college id : '))
 col_add = input('enter college address :')
-
+col_locate = input('enter college location :')
+col_labs = int('enter college labs :')
 
 print(col_name)
 print(col_id)
 print(col_add)
-
+print(col_locate)
+print(col_labs)
